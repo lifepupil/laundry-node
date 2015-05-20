@@ -1,0 +1,29 @@
+[
+  {
+    "firebaseId": 3,
+    "name": "Christian",
+    "mobile": 9715705758,
+    "email": "lifepupil@gmail.com",
+    "admin": true,
+    "karma": 10,
+    "createdAt": 1432150576416
+  },
+  {
+    "firebaseId": 2,
+    "name": "Chris",
+    "mobile": 5125875236,
+    "email": "christopher.oyler@gmail.com",
+    "admin": true,
+    "karma": 100,
+    "createdAt": 1432150576416
+  },
+  {
+    "firebaseId": 1,
+    "name": "Jon",
+    "mobile": 3605098185,
+    "email": "jkedwards@me.com",
+    "admin": true,
+    "karma": 60,
+    "createdAt": 1432150576416
+  }
+]

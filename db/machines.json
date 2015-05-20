@@ -1,0 +1,28 @@
+[
+  {
+    "machineType": "dryer",
+    "machineName": "dryer1",
+    "state": "inUse",
+    "useTime": 3600000,
+    "startTime": 1432153765589,
+    "currentUser": "a00000000000000000000001",
+    "useHistory": [{
+      "start": 1432153765589,
+      "end": 1432157494586,
+      "userId": "a00000000000000000000001"
+    }]
+  },
+  {
+    "machineType": "washer",
+    "machineName": "washer1",
+    "state": "good",
+    "useTime": 3600000,
+    "startTime": 1432153765589,
+    "currentUser": "a00000000000000000000002",
+    "useHistory":[{
+      "start": 1432153765589,
+      "end": 1432157494586,
+      "userId": "a00000000000000000000002"
+    }]
+  }
+]
