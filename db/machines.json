@@ -3,7 +3,7 @@
     "machineType": "dryer",
     "machineName": "dryer1",
     "state": "inUse",
-    "useTime": 3600000,
+    "useTime": 3000,
     "startTime": 1432153765589,
     "currentUser": "a00000000000000000000001",
     "useHistory": [{
